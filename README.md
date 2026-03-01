@@ -19,6 +19,12 @@ A fuzzy-logic-based cooperative parking decision system for two cars approaching
 - Defuzzification: centroid
 - Multiple test scenarios with interpretation
 
+## Membership Function Examples
+
+![Distance Membership](assets/Membership_distance.png)
+
+![Angle Membership](assets/Membership_angles.png)
+
 ## How to Run
 
 Install dependencies:
